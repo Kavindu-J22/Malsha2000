@@ -2,5 +2,5 @@
 - 👩‍🎓 I'm Full Stack Developer
 - 📚 I'm Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
 - 🎓 I’m currently undergraduate in Software Engineering
-- 🌱 I’m currently working Online-Laboratory-System
+- 🌱 I’m currently working Online-Laboratory-System Project
 - 📫 How to reach me malshagjayakody@gmail.com
